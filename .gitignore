@@ -42,7 +42,7 @@ node_modules/
 # BUCK
 buck-out/
 \.buckd/
-*.keystore
+
 
 # Fastlane
 #
